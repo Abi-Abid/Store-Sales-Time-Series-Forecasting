@@ -1,4 +1,4 @@
-![Retail Grocery Store](https://images.unsplash.com/photo-1607083206173-3e9c5c5af8d2?auto=format&fit=crop&w=1470&q=80)
+![Image](https://github.com/user-attachments/assets/2179818f-7fcc-46bd-a8c8-4664b1db12aa)
 *Source: [Unsplash](https://unsplash.com/photos/goods-on-shelf-rWMIbqmOxrY)*
 
 # Store Sales - Time Series Forecasting
