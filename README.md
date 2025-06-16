@@ -4,7 +4,7 @@
 # Store Sales - Time Series Forecasting
 ### Which product family, and from which store, is projected to generate the highest sales over the next 30 days? Well, let’s predict!!! 
 
-**This is a time series forecasting project focused on predicting the unit sales of products for Corporación Favorita, a large Ecuadorian-based grocery retailer.**
+**This is a [Kaggle Competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) on time series forecasting, focused on predicting the unit sales of products for Corporación Favorita, a large Ecuadorian-based grocery retailer.**
 
 This repository provides a comprehensive understanding of the problem, a step-by-step explanation of the approach taken, and a detailed storytelling walkthrough — from data exploration to final modeling. It reflects not only the technical solution but also my personal learning journey and explanation style in solving the grocery store sales prediction challenge.
 
